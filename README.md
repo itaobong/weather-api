@@ -64,5 +64,6 @@ http://127.0.0.1:5000/
 
 * Python 3.6+
 * Flask
+* Werkzeug
 * Requests
 * configparser
